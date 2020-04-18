@@ -12,18 +12,18 @@ https://github.com/amandakaoo
 
 A senior student majoring in Geography with GIS track at the University of Washington. Although I'm kind of late to join this field and found out the interest in it, working hard to advance my knowledge and skills in GIS. It's never too late to learn. I am patient and hard-working, having the passion to discover the things that happened around the world. I love traveling.
 
-As WNBA Player Sue Bird said:
+As WNBA Player [Sue Bird] said:
 > Never Let the Fear of Failing Discourage You for Trying.
 
 
 ## Experience
 
-#### *UW Circle K International (CKI), Seattle, Washington*
+#### *UW Circle K International ([CKI]), Seattle, Washington*
 *Member/Volunteer (Sept. 2018 – Present)*
 - Serviced the Great Seattle Area Community, including some weekly events: Food Bank, Soup Kitchen
 - Examples of Volunteer Events: Clothing Drives, Books to Prisoners, Lake Washington Clean Up, etc.
 
-#### *Chinese Information and Service Center (CISC), Seattle, Washington*
+#### *Chinese Information and Service Center ([CISC]), Seattle, Washington*
 *Volunteer (Sept. 2017 – February 2020)*
 - Helped immigrants throughout Seattle areas achieve success in their new community by providing ESL classes, computer classes, and other support services/Served over 400 people in the community
 - One on one mock interview for the Chinese immigrants who want to pass the citizenship tests and become U.S. citizens
@@ -59,6 +59,6 @@ Apart from being a student and studying, I enjoy
 * doing jigsaw puzzles
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[Sue Bird]: https://www.wnba.com/player/sue-bird/
+[CKI]: http://students.washington.edu/circlkuw/
+[CISC]: https://cisc-seattle.org/
