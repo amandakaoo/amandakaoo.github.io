@@ -1,11 +1,12 @@
 # Amanda Kao
 
+<img src="images/profile.jpg" width=300>
+
 yhk5uw@gmail.com
 
 https://www.linkedin.com/in/amanda-kao-177b08180/
 
 https://github.com/amandakaoo
-
 
 ## About
 
